@@ -30,12 +30,11 @@
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
 
-
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasMuller76&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMuller76&layout=compact&langs_count=7&theme=dark"/>
 </div>
