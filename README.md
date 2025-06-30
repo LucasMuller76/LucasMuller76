@@ -3,7 +3,7 @@
 <p align="center">
 🎓 17 anos | Estudante do 3º ano do ensino médio <br>
 🤖 Interessado por IA, Machine Learning, Deep Learning e redes neurais <br>
-📚 Explorando Python, Java, C, HTML, CSS e muito mais... <br>
+📚 Explorando Python, C#, C, HTML, CSS e muito mais... <br>
 🏅 Destaque em olimpíadas científicas e sempre buscando novos desafios
 </p>
 
