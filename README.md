@@ -11,7 +11,7 @@
 
 ### 🚀 Sobre mim
 
-- 📌 Ainda sem experiência profissional, mas sempre estudando e buscando evoluir.
+- 📌 Programado Júnior na WS Work.
 - 🧪 Tenho destaque em olimpíadas científicas, refletindo meu comprometimento com o aprendizado e raciocínio lógico.
 - 💻 Estudando e desenvolvendo pequenos projetos nessas áreas pra ganhar prática e experiência real.
 - 🔬 Atualmente focado em aprender Python e aprofundando os estudos com o curso da Asimov Academy.
