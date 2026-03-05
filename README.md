@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Lucas Müller 👋</h1>
 
 <p align="center">
-🎓 17 anos | Estudante do 3º ano do ensino médio <br>
+🎓 18 anos | Estudante de Ciências da Computação na Unisinos <br>
 🤖 Interessado por IA, Machine Learning, Deep Learning e redes neurais <br>
 📚 Explorando Python, C#, C, HTML, CSS e muito mais... <br>
 🏅 Destaque em olimpíadas científicas e sempre buscando novos desafios
@@ -14,7 +14,6 @@
 - 📌 Programado Júnior na WS Work.
 - 🧪 Tenho destaque em olimpíadas científicas, refletindo meu comprometimento com o aprendizado e raciocínio lógico.
 - 💻 Estudando e desenvolvendo pequenos projetos nessas áreas pra ganhar prática e experiência real.
-- 🔬 Atualmente focado em aprender Python e aprofundando os estudos com o curso da Asimov Academy.
 
 ---
 
