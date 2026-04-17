@@ -13,7 +13,6 @@
 
 - 🎓 Graduando em **Ciência da Computação na Unisinos**, com interesse em seguir carreira acadêmica e pesquisa.
 - 🧪 Interesse em **pesquisa científica**, especialmente nas áreas de **Machine Learning, Deep Learning e IA aplicada**.
-- 💻 Atualmente atuando como **Programador Júnior na WS Work**, desenvolvendo soluções e ganhando experiência prática.
 - 📊 Desenvolvo projetos de **Análise Exploratória de Dados (EDA)** e **Machine Learning**, buscando transformar dados em insights.
 - 🧠 Experiência em olimpíadas científicas, com forte base em **lógica, algoritmos e resolução de problemas**.
 
