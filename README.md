@@ -2,9 +2,9 @@
 
 <p align="center">
 🎓 18 anos | Estudante de Ciência da Computação na Unisinos <br>
-🤖 Focado em Inteligência Artificial, Machine Learning e Data Science <br>
-📊 Experiência com projetos de Análise Exploratória de Dados (EDA) e modelos de ML <br>
-🏅 Destaque em olimpíadas científicas e apaixonado por resolver problemas complexos
+🤖 Bolsista de Iniciação Científica (PIBIC/CNPq) em Reinforcement Learning e Machine Learning <br>
+📊 Focado em Inteligência Artificial, Machine Learning e Data Science <br>
+🏅 Experiência com projetos de EDA, ML e pesquisa científica
 </p>
 
 ---
@@ -12,7 +12,8 @@
 ### 🚀 Sobre mim
 
 - 🎓 Graduando em **Ciência da Computação na Unisinos**, com interesse em seguir carreira acadêmica e pesquisa.
-- 🧪 Interesse em **pesquisa científica**, especialmente nas áreas de **Machine Learning, Deep Learning e IA aplicada**.
+- 🧪 Atualmente sou **bolsista de Iniciação Científica (PIBIC/CNPq)** na área de **Reinforcement Learning e Machine Learning**.
+- 🤖 Interesse em **pesquisa científica**, especialmente nas áreas de **Machine Learning, Deep Learning, Reinforcement Learning e IA aplicada**.
 - 📊 Desenvolvo projetos de **Análise Exploratória de Dados (EDA)** e **Machine Learning**, buscando transformar dados em insights.
 - 🧠 Experiência em olimpíadas científicas, com forte base em **lógica, algoritmos e resolução de problemas**.
 
@@ -46,6 +47,7 @@
 - 🔬 Projetos de **Análise Exploratória de Dados (EDA)** com datasets reais
 - 🤖 Modelos de **Machine Learning** aplicados a classificação e análise de dados
 - 🧠 Projeto de **classificação de tumores cerebrais com Deep Learning (CNN)**
+- 🌌 Projeto de pesquisa envolvendo **Reinforcement Learning** e Inteligência Artificial
 - 🌐 Desenvolvimento de aplicações com integração **frontend + backend**
 
 ---
@@ -53,16 +55,17 @@
 ### 🎯 Objetivos
 
 - 🚀 Evoluir como **Engenheiro de Machine Learning / Cientista de Dados**
-- 🎓 Participar de **iniciação científica** e projetos de pesquisa acadêmica
+- 🎓 Construir carreira em **pesquisa acadêmica e Inteligência Artificial**
+- 🧠 Aprofundar conhecimentos em **Reinforcement Learning, Deep Learning e sistemas inteligentes**
+- 📚 Desenvolver projetos e pesquisas com impacto científico e tecnológico
 - 🏅 Continuar competindo em olimpíadas e desafios de programação
-- 📚 Aprofundar conhecimentos em **IA, Deep Learning e sistemas inteligentes**
 
 ---
 
 ### 🌐 Conecte-se comigo
 
 <div>
-  <a href="https://www.instagram.com/10_muller/?next=%2F" target="_blank">
+  <a href="https://www.instagram.com/lucasmullr_/?next=%2F" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/lucas-müller76" target="_blank">
