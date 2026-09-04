@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Lucas%20Müller&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Data%20%26%20ML%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Lucas%20Muller&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Data%20and%20ML%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%40+Unisinos;PIBIC%2FCNPq+Research+Scholar+in+Reinforcement+Learning;Building+full-stack+%26+ML+projects+%F0%9F%92%BB;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%40+Unisinos;PIBIC%2FCNPq+Research+Scholar+in+Reinforcement+Learning;Building+full-stack+and+ML+projects+%F0%9F%92%BB;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-### 👋 Hey, I'm Lucas — 18, tech enthusiast and always building something.
+### 👋 Hey, I'm Lucas — 18 years old, curious by nature, building things by vocation.
 
 </div>
 
@@ -68,16 +68,11 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasMuller76&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMuller76&layout=compact&theme=tokyonight&hide_border=true" />
-
 <br>
 
 <img src="https://streak-stats.demolab.com/?user=LucasMuller76&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasMuller76&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
 
 </div>
 
