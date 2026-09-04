@@ -1,83 +1,118 @@
-<h1 align="center">Olá! Eu sou o Lucas Müller 👋</h1>
+<div align="center">
 
-<p align="center">
-🎓 18 anos | Estudante de Ciência da Computação na Unisinos <br>
-🤖 Bolsista de Iniciação Científica (PIBIC/CNPq) em Reinforcement Learning e Machine Learning <br>
-📊 Focado em Inteligência Artificial, Machine Learning e Data Science <br>
-🏅 Experiência com projetos de EDA, ML e pesquisa científica
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Lucas%20Müller&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Data%20%26%20ML%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%40+Unisinos;PIBIC%2FCNPq+Research+Scholar+in+Reinforcement+Learning;Building+full-stack+%26+ML+projects+%F0%9F%92%BB;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-### 🚀 Sobre mim
+</div>
 
-- 🎓 Graduando em **Ciência da Computação na Unisinos**, com interesse em seguir carreira acadêmica e pesquisa.
-- 🧪 Atualmente sou **bolsista de Iniciação Científica (PIBIC/CNPq)** na área de **Reinforcement Learning e Machine Learning**.
-- 🤖 Interesse em **pesquisa científica**, especialmente nas áreas de **Machine Learning, Deep Learning, Reinforcement Learning e IA aplicada**.
-- 📊 Desenvolvo projetos de **Análise Exploratória de Dados (EDA)** e **Machine Learning**, buscando transformar dados em insights.
-- 🧠 Experiência em olimpíadas científicas, com forte base em **lógica, algoritmos e resolução de problemas**.
+<br>
 
----
+```
+   _                          __  __ _   _ _ _
+  | |    _   _  ___ __ _ ___ |  \/  | | | | | | ___ _ __
+  | |   | | | |/ __/ _` / __|| |\/| | | | | | |/ _ \ '__|
+  | |___| |_| | (_| (_| \__ \| |  | | |_| | | |  __/ |
+  |______\__,_|\___\__,_|___/|_|  |_|\___/|_|_|\___|_|
 
-### 🧰 Tecnologias e Ferramentas
+  > booting dev-mode...                [ OK ]
+  > loading react, node, torch, pandas [ OK ]
+  > status: building & experimenting   [ ACTIVE ]
+```
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="C" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">  
-  <img alt="Pandas" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
-  <img alt="NumPy" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
-  <img alt="TensorFlow" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
-  <img alt="Matplotlib" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">  
-  <img alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">  
-  <img alt="VSCode" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img alt="PyCharm" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg">
-  <img alt="Jupyter" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">
-  <img alt="GitHub" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img alt="Ubuntu" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg">
+<div align="center">
+
+### 👋 Hey, I'm Lucas — 18, tech enthusiast and always building something.
+
 </div>
 
 ---
 
-### 📊 Projetos em destaque
+## 🚀 About me
 
-- 🔬 Projetos de **Análise Exploratória de Dados (EDA)** com datasets reais
-- 🤖 Modelos de **Machine Learning** aplicados a classificação e análise de dados
-- 🧠 Projeto de **classificação de tumores cerebrais com Deep Learning (CNN)**
-- 🌌 Projeto de pesquisa envolvendo **Reinforcement Learning** e Inteligência Artificial
-- 🌐 Desenvolvimento de aplicações com integração **frontend + backend**
+- 🎓 Computer Science student at **Unisinos**, aiming for a career in research and academia.
+- 🧪 **Undergraduate Research Scholar (PIBIC/CNPq)** in **Reinforcement Learning** and **Machine Learning**.
+- 💻 Also interested in **systems development**, building **full-stack projects** end to end (frontend + backend).
+- 📊 I work on **EDA**, **Machine Learning** and **Deep Learning** projects, always turning data into insight.
+- 🧠 Deep interest in **Deep Learning**, **RL** and **intelligent systems** applied to real-world problems.
+- 🥇 **Medalist** in scientific olympiads — strong background in logic, algorithms and problem solving under pressure.
+- 🌱 Learning something new (almost) every day and documenting the journey here.
 
----
-
-### 🎯 Objetivos
-
-- 🚀 Evoluir como **Engenheiro de Machine Learning / Cientista de Dados**
-- 🎓 Construir carreira em **pesquisa acadêmica e Inteligência Artificial**
-- 🧠 Aprofundar conhecimentos em **Reinforcement Learning, Deep Learning e sistemas inteligentes**
-- 📚 Desenvolver projetos e pesquisas com impacto científico e tecnológico
-- 🏅 Continuar competindo em olimpíadas e desafios de programação
-
----
-
-### 🌐 Conecte-se comigo
-
-<div>
-  <a href="https://www.instagram.com/lucasmullr_/?next=%2F" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-müller76" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lucasmuller20082@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 </div>
 
 ---
 
-<p align="center">
-🚧 Este perfil está em constante evolução — cada projeto aqui representa um passo na minha jornada.
-</p>
+## 🧰 Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,html,css,postgres,tensorflow,pytorch,vscode,pycharm,jupyter,git,github,linux&perline=8" />
+
+<br><br>
+
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img alt="Gymnasium" src="https://img.shields.io/badge/Gymnasium-0A0A0A?style=for-the-badge&logo=openaigym&logoColor=white"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasMuller76&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMuller76&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=LucasMuller76&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasMuller76&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
+
+</div>
+
+---
+
+## 🐍 Contributions in action
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LucasMuller76/LucasMuller76/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" />
+
+</div>
+
+---
+
+## 🌐 Connect with me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/lucas-müller76" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/lucasmullr_/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:lucasmuller20082@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=LucasMuller76&label=Profile+views&color=00c6ff&style=flat" alt="visitor badge"/>
+
+</div>
+
+<p align="center">🚧 This profile is a work in progress — every project here marks a step in the journey. 🚧</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
